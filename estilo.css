@@ -1,0 +1,56 @@
+
+body{
+	
+  background: #0D47A1;
+	font-family: sans-serif;
+}
+
+h1{
+  color: white;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin: auto;
+
+
+}
+
+p{
+  color: white;
+  text-align: center;
+}
+.jardin{
+  
+  display: flex;
+  margin: auto;
+  text-align: center;
+}
+
+.arbol2{
+  
+  display: flex;
+  margin: auto;
+  text-align: center;
+  
+}
+
+
+.arbol1{
+  
+  display: flex;
+  margin: auto;
+  text-align: center;
+}
+.texto-justificado{
+text-align: justify;
+}
+
+
+/*img{
+  transition: transform 5s;
+  object-fit: cover;
+}
+
+img:hover{
+  transform: scale(1.3);
+}*/
